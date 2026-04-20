@@ -52,9 +52,9 @@ The core insight is that the **periocular region** — eyes, eyebrows, and nose 
 
 | Metric | Value |
 |---|---|
-| Identity Accuracy | **52.79%** |
-| Known-only Accuracy | 67.58% |
-| Unknown Rate | 21.89% |
+| Identity Accuracy | **73.08%** |
+| Known-only Accuracy | 77.55% |
+| Unknown Rate | 5.77% |
 | Mask F1 Score | **99.89%** |
 
 ### Custom Real-World Dataset (6 identities, 52 images, threshold = 0.38)
